@@ -1,2 +1,0 @@
-# sote_pszichiatria_teszt_kerdesbank
-Interaktív kérdésbank SOTE Pszichiátria teszthez
